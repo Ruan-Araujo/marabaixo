@@ -71,7 +71,9 @@ fieldset {
 footer {
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: #990100
+    color: #990100;
+    background-color: #333333;
+    padding: 2%;
 }
 
 .zap {
